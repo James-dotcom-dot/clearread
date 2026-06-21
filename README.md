@@ -2,7 +2,7 @@
 
 A small front-end prototype that rewrites dense, complex text into short, plain-English sentences — built with students who have dyslexia or ADHD in mind, where long, multi-clause sentences increase reading load even when the underlying ideas are understandable.
 
-**[Try it live](https://YOUR-USERNAME.github.io/clearread/)** *(replace with your actual GitHub Pages link once deployed)*
+[Try it live](https://james-dotcom-dot.github.io/clearread/)
 
 ## What it does
 
